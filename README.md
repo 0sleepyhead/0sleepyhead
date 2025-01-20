@@ -11,7 +11,7 @@
 - HTML & CSS
 - React.js
 ## Random fact about me:
-- I love to sleep, but my inspiration cones only at night, so I have to sleep everywhere I can during the day.
+- I love to sleep, but my inspiration comes only at night, so I have to sleep everywhere I can during the day.
 
 <!---
 0sleepyhead/0sleepyhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
